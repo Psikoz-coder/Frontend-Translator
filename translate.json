@@ -1,0 +1,18 @@
+{
+  "/index.html": {
+    "tr": {
+      "title": "Ana Sayfa",
+      "h1": "Hoş Geldiniz!",
+      "h2": "Bu bir alt başlık",
+      "p1": "Bu bir test paragrafıdır.",
+      "button": "Daha fazla bilgi"
+    },
+    "en": {
+      "title": "Home Page",
+      "h1": "Welcome!",
+      "h2": "This is a subtitle",
+      "p1": "This is a test paragraph.",
+      "button": "More info"
+    }
+  }
+}
