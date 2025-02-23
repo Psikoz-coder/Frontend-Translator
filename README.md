@@ -1,5 +1,6 @@
 
 # 🌍 Frontend Translator
+<img src="Frontend-Translator.gif" alt="...">
 
 ## 📌 Amaç
 
